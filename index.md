@@ -8,6 +8,4 @@ This is the link to another md file [Link](https://beliang.github.io/cse15l-lab-
 
 ```
 # code block
-print 'Hello World'
-print 'This is a code block'
 ```
