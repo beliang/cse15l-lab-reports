@@ -1,4 +1,4 @@
-# **CSE 15L Lab 2**
+# **CSE 15L Lab 1**
 What we are *learned* in lab 1:
 - Client vs Server
 - Remote connection to a server in powershell
