@@ -1,8 +1,10 @@
-# (**CSE 15L Lab 2**)
-What we are *learning* in lab 2:
-- git
-- github
-- github pages
+# **CSE 15L Lab 2**
+What we are *learned* in lab 1:
+- Client vs Server
+- Remote connection to a server in powershell
+- Unix commands
+- **ssh** and **scp** 
+- ssh key to make it more convient to log in
 
 This is the link to another md file [Link](https://beliang.github.io/cse15l-lab-reports/anotherIndex.html)
 
