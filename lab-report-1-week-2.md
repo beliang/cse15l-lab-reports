@@ -77,4 +77,5 @@ ssh cs15lsp22ais@ieng6.ucsd.edu ls; javac WhereAmI.java; java WhereAmI
 ```
 
 The output would be: 
+
 ![Image](optimized_run.png)
