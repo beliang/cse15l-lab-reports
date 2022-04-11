@@ -21,6 +21,7 @@ $ssh cs15lsp22zz@ieng6.ucsd.edu
 Since this is our first time logging in, answer yes to all the questions and input your password when prompted to do so.
 
 You should see a screen like this after logging in:
+
 ![Image](ssh_login.png)
 
 # Part 3 - Trying Commands
@@ -51,6 +52,7 @@ scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
 We can check that the file has been copied to the server by running the ```ls``` command on the server side.
 
 An example run shouold look like this:
+
 ![Image](scp_command.png)
 
 # Part 5 - SSH Keys
@@ -59,11 +61,13 @@ Logging in with your password everytime can be annoying and can be easily fixed 
 ssh-keygen
 ```
 Save it in the current file it is listed in and skip the paraphrases. It should look like this after the command:
+
 ![Image](keygen.png)
 
 After, copy the public key file ```C:\Users\<Users>/.ssh/id_rsa.pub``` into the authorized key file in the remote server with the ```scp``` command. It will prompt you to enter your password again and this will be the last time you ever have to do so!!
 
 Here is an example run:
+
 ![Image](authorized_key_copy.png)
 
 Try logging into your remote account again and it won't prompt you to type in your password now! :D
