@@ -6,4 +6,4 @@
 
 [Lab Report 3](https://beliang.github.io/cse15l-lab-reports/lab-report3-week6.html)
 
-[Lab Report 3](https://beliang.github.io/cse15l-lab-reports/lab-report4-week8.html)
+[Lab Report 4](https://beliang.github.io/cse15l-lab-reports/lab-report4-week8.html)
